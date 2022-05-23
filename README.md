@@ -1,13 +1,23 @@
 # Andrew Kato — @AndrewMKato
 
-### Hi! I'm Andrew (he/him) and I'm an undergraduate at UC Santa Cruz focusing on computational and sociolinguistics.
+Hi! I'm Andrew (he/him) and I'm an undergraduate at UC Santa Cruz studying computational linguistics through the lenses of diversity, inclusion, and language barriers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Main Focuses
+
+- Linguistic syntax in natural language processing
+- The intersection between language and discrimination in the US
+- Applications of computation in the legal field
+
+## Current Projects
+
+- Creating a syntactic parser for English sentences in Python
+- Exploring how programming can be used to interpret predicate calculus 
+- Collaboratively experimenting with Java
+
+## Where to Contact Me
+
+- Email: andrewmkato@gmail.com
+- Work- or school-related inquiries: anmkato@ucsc.edu
+- LinkedIn: www.linkedin.com/in/andrewkato
+
 -->
