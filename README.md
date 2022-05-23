@@ -1,6 +1,6 @@
-### Andrew Kato — @AndrewMKato
+# Andrew Kato — @AndrewMKato
 
-## Hi! I'm Andrew (he/him) and I'm an undergraduate at UC Santa Cruz focusing on computational and sociolinguistics.
+### Hi! I'm Andrew (he/him) and I'm an undergraduate at UC Santa Cruz focusing on computational and sociolinguistics.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
