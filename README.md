@@ -1,9 +1,6 @@
-### Hi there 👋
+### Andrew Kato — @AndrewMKato
 
-<!--
-**AndrewMKato/AndrewMKato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi! I'm Andrew (he/him) and I'm an undergraduate at UC Santa Cruz focusing on computational and sociolinguistics.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
