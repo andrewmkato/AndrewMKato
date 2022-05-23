@@ -10,7 +10,7 @@ Hi! I'm Andrew (he/him) and I'm an undergraduate at UC Santa Cruz studying compu
 
 ## Current Projects
 
-- Creating a syntactic parser for English sentences in Python
+- Creating a general-purpose syntactic parser for English sentences in Python
 - Exploring how programming can be used to interpret predicate calculus 
 - Collaboratively experimenting with Java
 
