@@ -17,7 +17,7 @@ Hi! I'm Andrew (he/him) and I'm an undergraduate at UC Santa Cruz studying compu
 ## Where to Contact Me
 
 - Email: andrewmkato@gmail.com
-- Work- or school-related inquiries: anmkato@ucsc.edu
+- Work- or academic-related inquiries: anmkato@ucsc.edu
 - LinkedIn: www.linkedin.com/in/andrewkato
 
 --> Feel free to reach out if you have any questions or similar interests!
