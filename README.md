@@ -1,4 +1,4 @@
-# Andrew Kato — @AndrewMKato
+# Andrew Kato — @andrewmkato
 
 I'm Andrew, currently an undergraduate at UC Santa Cruz studying linguistics focusing on the intersection of natural language processing (NLP) and diversity, equity, and inclusion.
 
