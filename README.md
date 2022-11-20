@@ -1,6 +1,6 @@
 # Andrew Kato — @AndrewMKato
 
-Hi! I'm Andrew (he/him) and I'm an undergraduate at UC Santa Cruz studying computational linguistics through the lenses of diversity, inclusion, and language barriers.
+I'm Andrew, currently an undergraduate at UC Santa Cruz studying linguistics focusing on the intersection of natural language processing (NLP) and diversity, equity, and inclusion.
 
 ## Main Focuses
 
