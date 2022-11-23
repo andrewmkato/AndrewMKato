@@ -4,20 +4,17 @@ I'm Andrew, currently an undergraduate at UC Santa Cruz studying linguistics foc
 
 ## Main Focuses
 
-- Linguistic syntax in natural language processing
-- The intersection between language and discrimination in the US
-- Applications of computation in the legal field
+- Theoretical syntax and semantics and their applications in natural language processing
+- Distributional semantics and word-embeddings
+- Machine learning (ML) bias-detection in corpora 
 
 ## Current Projects
 
-- Creating a general-purpose syntactic parser for English sentences in Python
-- Exploring how programming can be used to interpret predicate calculus 
-- Collaboratively experimenting with Java
+- Creating python programming resources for beginning and intermediate learners for my tutoring sessions
+- Programming applications in predicate calculus 
+- Exploratory data analysis with R
 
 ## Where to Contact Me
 
-- Email: andrewmkato@gmail.com
-- Work- or academic-related inquiries: anmkato@ucsc.edu
+- Email: andrewmkato (at) gmail (dot) com or anmkato (at) ucsc (dot) edu
 - LinkedIn: www.linkedin.com/in/andrewkato
-
---> Feel free to reach out if you have any questions or similar interests!
