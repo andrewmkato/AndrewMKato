@@ -1,6 +1,6 @@
 # Andrew Kato — @andrewmkato
 
-I'm Andrew, currently an undergraduate at UC Santa Cruz studying linguistics focusing on the intersection of natural language processing (NLP) and diversity, equity, and inclusion.
+I'm Andrew, currently an undergraduate in the Department of Linguistics at UC Santa Cruz, primarily focusing on 
 
 ## Main Focuses
 
@@ -10,11 +10,10 @@ I'm Andrew, currently an undergraduate at UC Santa Cruz studying linguistics foc
 
 ## Current Projects
 
-- Creating python programming resources for beginning and intermediate learners for my tutoring sessions
-- Programming applications in predicate calculus 
-- Exploratory data analysis with R
+- Developing a modified theory of Condition-A binding via agreement.
+- Investigating novel English data relating to the syntax and semantics of intensification, under Haoze Li.
+- Exploratory NLP data analysis via the Tech4Good research lab, under David T. Lee.
 
 ## Where to Contact Me
 
-- Email: andrewmkato (at) gmail (dot) com or anmkato (at) ucsc (dot) edu
-- LinkedIn: www.linkedin.com/in/andrewkato
+- Email: andrewmkato \[at\] gmail \[dot\] com or anmkato [at] ucsc \[dot\] edu
