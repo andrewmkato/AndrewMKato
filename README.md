@@ -1,14 +1,14 @@
 # Andrew Kato — @andrewmkato
 
-I'm Andrew, currently an undergraduate in the Department of Linguistics at UC Santa Cruz, primarily focusing on 
+I'm Andrew, currently an undergraduate in the Department of Linguistics at UC Santa Cruz.
 
 ## Main Focuses
 
-- Theoretical syntax and semantics and their applications in natural language processing
-- Distributional semantics and word-embeddings
-- Machine learning (ML) bias-detection in corpora 
+- Generative morphosyntax and formal semantics
+- Pronominal anaphora and discourse
+- Computational linguistics in the context of social computing
 
-## Current Projects
+## Current Research
 
 - Developing a modified theory of Condition-A binding via agreement.
 - Investigating novel English data relating to the syntax and semantics of intensification, under Haoze Li.
