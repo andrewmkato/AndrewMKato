@@ -1,4 +1,4 @@
-# Andrew Kato — @andrewmkato
+# Andrew Kato
 
 I'm Andrew, currently an undergraduate in the Department of Linguistics at UC Santa Cruz.
 
